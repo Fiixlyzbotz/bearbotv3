@@ -1,20 +1,20 @@
 //=============『 Utama 』================== //
-global.owner = ['6281261973803'] 
+global.owner = ['6287829334797'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Razul'
-global.numberowner = '6281261973803'
+global.nameowner = 'Fiixlyz'
+global.numberowner = '6287829334797'
 global.instagram = 'https://instagram.com/k0nc1t'
 global.github = 'https://github.com/koncit'
-global.dana = '081261973803'
-global.pulsa = '081261973803'
-global.gopay = '081261973803'
+global.dana = '087829334797'
+global.pulsa = '087829334797'
+global.gopay = '087829334797'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'BearBot-Md'
-global.gc = 'https://chat.whatsapp.com/KZ8a8elMR1lHfKoW7kNNto'
+global.namebot = 'FiixlyzBotz'
+global.gc = 'https://chat.whatsapp.com/LHbdhHKtGbtFrckmT5OPrU'
 global.web = 'https://www.app-koncit.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/94ba03b80edd8f8a8ae75.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/94ba03b80edd8f8a8ae75.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Bear Bot'
+global.wm = 'FiixlyzMd'
 global.watermark = wm
 global.wm2 = '                     「 Bear Bot あ⁩ 」'
 global.wm3 = '⫹⫺ Bear Bot'
