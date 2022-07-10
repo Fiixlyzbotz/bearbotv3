@@ -1,5 +1,5 @@
 {
-    "name": "Koncit-md",
+    "name": "Fiixlyz-Md",
     "version": "3.5.4",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
@@ -23,9 +23,9 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Hyzerr/MD-V3",
+    "homepage": "https://github.com/Fiixlyzbotz/bearbotv3/",
     "author": {
-        "name": "Elyas"
+        "name": "Fiixlyz"
     },
     "repository": {
         "type": "git",
