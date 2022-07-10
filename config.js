@@ -6,8 +6,8 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'Fiixlyz'
 global.numberowner = '6287829334797'
-global.instagram = 'https://instagram.com/k0nc1t'
-global.github = 'https://github.com/koncit'
+global.instagram = 'https://instagram.com/Fiixlyz'
+global.github = 'https://github.com/Fiixlyzbotz'
 global.dana = '087829334797'
 global.pulsa = '087829334797'
 global.gopay = '087829334797'
@@ -15,7 +15,7 @@ global.gopay = '087829334797'
 //=============『 Info Bot 』=================//
 global.namebot = 'FiixlyzBotz'
 global.gc = 'https://chat.whatsapp.com/LHbdhHKtGbtFrckmT5OPrU'
-global.web = 'https://www.app-koncit.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.api = 'https://wa.me/087829334797' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'FiixlyzMd'
 global.watermark = wm
-global.wm2 = '                     「 Bear Bot あ⁩ 」'
-global.wm3 = '⫹⫺ Bear Bot'
+global.wm2 = '                     「 Fiixlyzbotz⁩ 」'
+global.wm3 = 'Fiixlyz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/94ba03b80edd8f8a8ae75.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Bear Bot'
-global.author = '© Razul Ganteng Xixixi'
+global.packname = 'Fiixlyzbotz'
+global.author = '© Franzz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
